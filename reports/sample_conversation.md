@@ -1,7 +1,7 @@
 ## Sample Conversation
 
 **Assistant**
-"Hello! I'm here to help you find the perfect dining experience. To get started, could you please tell me the location where you're looking for restaurants?\n"
+Hello! I'm here to help you find the perfect dining experience. To get started, could you please tell me the location where you're looking for restaurants?
 
 **User**
 Banashankari
@@ -33,7 +33,9 @@ no budget constraint
 **Assistant**
 Thank you for providing all the information. Kindly wait, while I fetch the restaurant details: 
 
+**Assistant**
 ------------------ Top Restaurants as per your requirement -------------------
+```json
 [
     {
         "Name": " Jalsa",
@@ -141,7 +143,8 @@ Thank you for providing all the information. Kindly wait, while I fetch the rest
         ]
     }
 ]
--------------------- Recommendation --------------------
+```
+---
 
 Based on your criteria of seeking Indian restaurants in Banashankari with no dietary restrictions, no specific ambience preference, and no budget constraints, I recommend **Jalsa**.
 
