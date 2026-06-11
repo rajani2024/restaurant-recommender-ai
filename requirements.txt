@@ -1,0 +1,8 @@
+numpy
+pandas
+openai
+langchain
+langchain-openai
+geopy
+python-dotenv
+jupyter
