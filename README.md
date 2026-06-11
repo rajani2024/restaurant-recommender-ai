@@ -430,7 +430,7 @@ OPENAI_API_KEY=your_api_key_here
 ### Launch Notebook
 
 ```bash
-jupyter notebook notebooks/RestaurantAssistAI.ipynb
+jupyter notebook notebooks/restaurant-recommender-ai.ipynb
 ```
 
 ---
