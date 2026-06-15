@@ -404,7 +404,7 @@ restaurant-recommender-ai/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<your-github-username>/restaurant-recommender-ai.git
+git clone https://github.com/rajani2024/restaurant-recommender-ai.git
 ```
 
 ### Navigate to Project Directory
